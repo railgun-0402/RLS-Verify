@@ -1,0 +1,3 @@
+github.com/jackc/pgx/v5 v5.7.1/go.mod h1:e7O26IywZZ+naJtWWos6i6fvWK+29etgITqrqHLfoZA=
+github.com/labstack/echo/v4 v4.12.0/go.mod h1:UP9Cr2DJXbOK3Kr9ONYzNowSh7HP0aG0ShAyycHSJvM=
+github.com/lestrrat-go/jwx/v2 v2.1.1/go.mod h1:4LvZg7oxu6Q5VJwn7Mk/UwooNRnTHUpXBj2C4j3HNx0=
